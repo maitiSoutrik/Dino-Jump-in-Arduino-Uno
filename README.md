@@ -2,6 +2,10 @@
 
 ![](images/splashscreen.png)
 
+# Gameplay
+
+![](images/gameplay.gif)
+
 # Features
 * Splash screen that waits until you are ready.
 * When you are holding the SELECT button to jump, score is stopped from incrementing so that you can't just hold down the button the entire time.
