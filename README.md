@@ -4,7 +4,7 @@
 
 # Gameplay
 
-![](images/gameplay.gif)
+![alt-text](https://github.com/maitiSoutrik/Dino-Jump-in-Arduino-Uno/blob/master/images/gamplay.gif)
 
 # Features
 * Splash screen that waits until you are ready.
